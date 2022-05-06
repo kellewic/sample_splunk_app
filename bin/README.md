@@ -1,0 +1,2 @@
+# Entry points for the app and other supporting app code and scripts
+* [Considerations for Python code files](https://dev.splunk.com/enterprise/docs/developapps/createapps/appanatomy/#Considerations-for-Python-code-files)

@@ -1,8 +1,8 @@
 ## https://dev.splunk.com/enterprise/docs/developapps/manageknowledge/setpermissionsforobjects/
 ## https://docs.splunk.com/Documentation/Splunk/latest/Admin/Defaultmetaconf
-
+#
 []
-access = read : [ * ], write : [ admin, power ]
+access = read : [ * ], write : [ admin, sc_admin, power ]
 export = none
 
 ### VIEWSTATES: even normal users should be able to create shared viewstates
